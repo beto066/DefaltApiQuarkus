@@ -1,20 +1,11 @@
-# Tópicos em programação II 
-
-# Sobre o projeto  
-  Nosso projeto consiste em um sistema para atléticas, afim de aproximar os usuários das mesmas. Após pesquisas e entrevistas feitas foi observado algumas necessidades que serão atendidas com o sistema, dentre elas: serviço de e-commerce.
+# Projeto padrão para novas criações em quarkus
 
 # Objetivo
-  O objetivo do projeto é construir um sistema agradável, simples e com uma ótima experiência para os usuários, trazendo maior visibilidade para as atléticas, além de fidelizar mais clientes.
-  
-# Grupo 2 
+  O objetivo é projetar um design padrão para criações de projetos em quarkus
 
-# Alunos: 
+# Preparando o terreno
+  Precisa ter o docker instalado
 
-## Lucas José
-## Lucas Henderson
-## Thiago Araujo
-## Alyne Lima
-## Weberth Pereira
-## Sebastião
-## Thallys A
-## Barkley 
+  Para rodar o projeto precisa do comando
+  ./mvnw compile quarkus:dev
+
